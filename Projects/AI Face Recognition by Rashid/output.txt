@@ -1,0 +1,2 @@
+Total number of unique people: 1
+Average time between new faces: 21.42345142364502 seconds

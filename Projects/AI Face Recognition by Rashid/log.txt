@@ -1,0 +1,8 @@
+2024-05-10 19:44:51.738897: Detected face, ID: Person 0
+2024-05-10 19:44:54.536323: Detected face, ID: Person 0
+2024-05-10 19:44:57.512826: Detected face, ID: Person 0
+2024-05-10 19:45:00.098937: Detected face, ID: Person 0
+2024-05-10 19:45:03.561964: Detected face, ID: Person 0
+2024-05-10 19:45:06.830992: Detected face, ID: Person 0
+2024-05-10 19:45:09.923349: Detected face, ID: Person 0
+2024-05-10 19:45:13.162349: Detected face, ID: Person 0
